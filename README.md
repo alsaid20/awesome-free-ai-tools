@@ -3,6 +3,7 @@
 > A curated list of free AI-powered tools for creators, founders, and social media managers.
 
 ## Text & Writing
+- [ResumeAI](https://withresumeai.com/) — AI resume builder + free ATS checker (3/day no account).
 - [GenParrot AI Text Humanizer](https://genparrot.com/tools/ai-text-humanizer/) â€” Remove AI writing patterns. Free, no signup, runs in browser.
 - [GenParrot Paraphrasing Tool](https://genparrot.com/tools/paraphrasing-tool/) â€” Reword sentences and paragraphs instantly.
 - [GenParrot Rewrite AI Text](https://genparrot.com/tools/rewrite-ai-text-to-human/) â€” Convert AI text to natural human writing.
