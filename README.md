@@ -14,6 +14,7 @@
 - [GenParrot Gaming Name Generator](https://genparrot.com/tools/gaming-name-generator/) â€” Gamer tags for Steam, Xbox, PSN.
 - [GenParrot Emo Username Generator](https://genparrot.com/tools/emo-username-generator/) â€” Alternative aesthetic usernames.
 
+- [Raphael](https://raphael.app) — Free unlimited AI image generator with intelligent multi-model routing.
 ## Business & Branding
 - [GenParrot Business Name Generator](https://genparrot.com/tools/ai-business-name-generator/) â€” Brandable business name ideas.
 - [GenParrot Shopify Name Generator](https://genparrot.com/tools/business-name-generator-shopify/) â€” Names for Shopify stores.
